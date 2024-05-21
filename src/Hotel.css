@@ -1,0 +1,146 @@
+header
+{
+    background-image: url(im.jpg);
+    height: 150px;
+    width: 100%;
+}
+.list a
+{
+    padding-left: 30px;
+    color: aliceblue;
+}
+span
+{
+  margin-right: 55%;
+}
+.list *
+{
+
+    text-decoration: none;
+}
+#name
+{
+   font-family: Georgia, 'Times New Roman', Times, serif ;
+   font-size: 40px;
+   color: rgb(223, 70, 43);
+}
+.inp
+{
+    color: aliceblue;
+    margin-left: 78%;
+    padding-bottom: 10px;
+}
+
+.para
+{
+    margin-top: 30px;
+    margin-left: 40%;
+   color: darkgray;
+   width: 250px;
+}
+img
+{
+  height: 100px;
+  width: 150px;
+  margin-left: 10px;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+.parota
+{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    background-color: beige;
+    width: 170px;
+    height: fit-content;
+}
+.nav2 label
+{
+    text-decoration: none;
+    padding-left: 30px;
+    color: black;
+}
+.nav2
+{
+    margin-left: 10%;
+}
+#input1
+{
+    display: flex;
+    padding-left: 10px;
+}
+#put1
+{
+    width: 50px;
+}
+.naan
+{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    background-color: beige;
+    width: 170px;
+    height: fit-content;
+    margin-left: 10px;
+}
+.container
+{
+    display: flex;
+}
+#input2
+{
+    display: flex;
+    padding-left: 10px;
+}
+p
+{
+    padding-left:10px;
+}
+.chappathi
+{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    background-color: beige;
+    width: 170px;
+    height: fit-content;
+    margin-left: 10px;
+}
+#input3
+{
+    display: flex;
+    padding-left: 10px;
+}
+.container
+{
+    width: 70%;
+    display: none;
+}
+.cart
+{
+    width: 30%;
+}
+.wrapper
+{
+    display: flex;
+}
+table,td,th
+{
+    border: 1px  solid;
+    padding: 15px;
+    
+}
+table
+{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.cart
+{
+    background-color: bisque;
+    margin-right: 10px;
+    margin-left: auto;
+}
+.cart h3
+{
+    margin-left: 125px;
+}
